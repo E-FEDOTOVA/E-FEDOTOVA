@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning more about programing
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
-            email: fedotova0e0v@gmail.com
+- 📫 You can reach me at fedotova0e0v@gmail.com
 
 <!---
 E-FEDOTOVA/E-FEDOTOVA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
