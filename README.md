@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @E-FEDOTOVA
-- 👀 I’m interested in learning more about programing
-- 🌱 I’m currently learning C++ and php
 - 📫 You can reach me at fedotova0e0v@gmail.com
 
 <!---
