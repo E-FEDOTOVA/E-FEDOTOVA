@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kate</h1>
-<h3 align="center">A lifelong student...</h3>
+<h3 align="center">🎉Graduating December 2024🎉</h3>
 
 - 🔭 I’m currently working on [Fashion Finder](https://github.com/E-FEDOTOVA/fashion-finder.store)
 
