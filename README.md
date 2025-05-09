@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [Fashion Finder](https://github.com/E-FEDOTOVA/fashion-finder.store)
 
-- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
